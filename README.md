@@ -1,4 +1,4 @@
-<h2 align="left">Hello World!, I'm Jeric, a Foolstuck Web Developer 👋🏼:</h2>
+<h1 align="left">Hello World!, I'm Jeric, a Foolstuck Web Developer 👋🏼:</h1>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media.tenor.com/3IOwzTvVxskAAAAM/luffy-one-piece.gif"  />
+<h2 align="left">💻 Tech Stack:</h2>
 
 ###
 
@@ -50,6 +50,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
+
+###
+
+<img align="right" height="180" src="https://media.tenor.com/3IOwzTvVxskAAAAM/luffy-one-piece.gif"  />
 
 ###
 
