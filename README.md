@@ -1,4 +1,4 @@
-<h1 align="left">Hello World!, I'm Jeric, a Foolstuck Web Developer 👋🏼:</h1>
+<h1 align="left">Hello World!, I'm Jeric, a BSIT Student 👋🏼:</h1>
 
 ###
 
