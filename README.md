@@ -1,4 +1,4 @@
-<h1 align="left">Hello World!, I'm Jeric, a Web Developer👋🏼:</h1>
+<h1 align="left">Hello World!, I'm Jeric Javier, a Web Developer👋🏼:</h1>
 
 <h2 align="left">💻 Tech Stack:</h2>
 
