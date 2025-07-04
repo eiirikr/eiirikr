@@ -1,6 +1,6 @@
  <h1 align="left">Hello World!, I'm Jeric, a Software Engineer👋🏼:</h1>
 
-<h2 align="left">💻 My Tech Stack:</h2>
+<h2 align="left">💻 Tech Stack:</h2>
 
 ###
 
