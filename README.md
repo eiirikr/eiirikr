@@ -1,17 +1,57 @@
- <h1 align="left">Hello World!, I'm Jeric, a Software Developer👋🏼:</h1>
+<div align="center">
 
+# 👋🏼 Hi there! I'm Jeric Javier ([@jeric.dev](https://tech-javier-projects.vercel.app/) | [@eiirikr-dev](https://github.com/eiirikr))
 
-###
+<!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
 
-<img align="right" height="180" src="https://media.tenor.com/3IOwzTvVxskAAAAM/luffy-one-piece.gif"  />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full-Stack+Software+Developer+|+Python%2C+Go%2C+Javascript/TypeScript;API+Integration%2C+Automation+%26+Scripting%2C+Web+Development%2C+AI+%26+Analytics;Building+Sofware+Solutions+To+Solve+Real+World+Problems)](https://git.io/typing-svg)
 
-###
+<p align="center">
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=py,go,ts,js,htmx,tailwind,flask,django,html,css,vue" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=arch,bash,neovim,vscode,nodejs,sqlite,postgres,supabase,heroku,docker,git,github" />
+  </a>
+</p>
 
-<div align="left">
-  <a href="https://www.instagram.com/eiirikr_?igsh=MTJ1aDRxbnp5cGllaw==" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://discord.gg/Anj3QYEX" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="mailto:javierjericm@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/javierjericm?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://www.facebook.com/share/16AkCiDfya/" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
+<div align="center">
+  
+| **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🖱️ GUI** |
+| :---: | :---: | :---: | :---: |
+| Python, Go | Python (Django, Flask),<br>Go (Stdlib) | HTMX, HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | Python (CustomTKinter),<br>Golang (Fyne) |
+  
 </div>
 
+---
+
+<div align="center">
+  <a href="https://github.com/eiirikr?tab=repositories">
+    <img 
+      style="height: 200px; width:355px;"
+      height=200
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=eiirikr&theme=apprentice&hide_rank=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/eiirikr?tab=repositories">
+    <img
+      style="height: 200px; width:355px;"
+      height=200
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiirikr&size_weight=0&count_weight=1&theme=apprentice&layout=compact&langs_count=6&card_width=270&hide=Jupyter%20Notebook,css,html,Mako,dockerfile,javascript,lua"
+      />
+  </a>
+  <div style="height:10px;"></div>
+</div>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierjericm)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/16AkCiDfya/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eiirikr_)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@eiirikr_)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mrjxtr)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:javierjericm@gmail.com)
+
+</div>
