@@ -22,7 +22,7 @@
   
 | **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🖱️ GUI** |
 | :---: | :---: | :---: | :---: |
-| Python, Go | Python (Django, Flask),<br>Go (Stdlib) | HTMX, HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | Python (CustomTKinter),<br>Golang (Fyne) |
+| JAVA, PHP | React, Spring, Laravel | HTMX, HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | Python (CustomTKinter),<br>Golang (Fyne) |
   
 </div>
 
