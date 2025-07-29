@@ -1,8 +1,7 @@
 <div align="center">
 
 # 👋🏼 Hi there! I'm Jeric Javier ([@jeric.dev](https://tech-javier-projects.vercel.app/) | [@eiirikr-dev](https://github.com/eiirikr))
-
-<!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
+ 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=20&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full-Stack+Software+Developer+|+JAVA%2C+PHP%2C+Javascript/TypeScript;API+Integration%2C+Automation+%26+Scripting%2C+Web+Development%2C+AI+%26+Analytics;Building+Sofware+Solutions+To+Solve+Real+World+Problems)](https://git.io/typing-svg)
 
@@ -14,7 +13,7 @@
   <a href="https://skillicons.dev"> 
     <img src="https://skillicons.dev/icons?i=react,java,py,laravel,dotnet,php,ts,js,htmx,tailwind,html,bootstrap,css" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,nodejs,aws,figma,sqlite,mongodb,mysql,express,heroku,git,github,vercel" />
+    <img src="https://skillicons.dev/icons?i=vscode,nodejs,aws,figma,postman,sqlite,mongodb,mysql,express,heroku,git,github,vercel" />
   </a>
 </p>
 
