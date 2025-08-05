@@ -21,7 +21,7 @@
   
 | **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🖱️ GUI** |
 | :---: | :---: | :---: | :---: |
-| JAVA, PHP, C# | React, Spring, Laravel, .NET | HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | Python (CustomTKinter),<br>JAVA (Swing) |
+| JAVA, PHP, C# | React, Spring, Laravel, .NET | HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | JAVA (Swing) |
   
 </div>
 
