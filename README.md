@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=react,java,py,laravel,dotnet,php,ts,js,htmx,tailwind,html,bootstrap,css" />
+    <img src="https://skillicons.dev/icons?i=react,next,java,py,laravel,dotnet,php,ts,js,htmx,tailwind,html,bootstrap,css" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,nodejs,aws,figma,postman,sqlite,mongodb,mysql,express,heroku,git,github,vercel" />
+    <img src="https://skillicons.dev/icons?i=vscode,nodejs,aws,figma,postman,sqlite,mongodb,mysql,appwrite,express,heroku,git,github,vercel" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
   
 | **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🖱️ GUI** |
 | :---: | :---: | :---: | :---: |
-| JAVA, PHP, C# | React, Spring, Laravel, .NET | HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | JAVA (Swing) |
+| JAVA, PHP, C# | React, Next, Spring, Laravel, .NET | HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | JAVA (Swing) |
   
 </div>
 
