@@ -19,7 +19,7 @@
 
 <div align="center">
   
-| **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🖱️ GUI** |
+| **🖥️ Backend** | **🌐 Frameworks** | **🎨 Frontend** | **🖱️ GUI** |
 | :---: | :---: | :---: | :---: |
 | JAVA, PHP, C# | React, Next, Spring, Laravel, .NET | HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | JAVA (Swing) |
   
