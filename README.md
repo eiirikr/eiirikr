@@ -19,7 +19,7 @@
   
 | **🖥️ Backend** | **🌐 Frameworks** | **🎨 Frontend** | **🖱️ GUI** |
 | :---: | :---: | :---: | :---: |
-| JAVA, PHP, C#, WordPress | React, Next, Spring, Laravel, ASP .NET | HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | JAVA (Swift) |
+| JAVA, PHP, C, C#, WordPress | React, Next, Spring, Laravel, ASP .NET | HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | JAVA (Swift) |
   
 </div>
 
